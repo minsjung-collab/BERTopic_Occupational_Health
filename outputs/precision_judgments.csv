@@ -1,0 +1,8 @@
+category,n_matched,n_reviewed,n_relevant,precision_pct,not_relevant_items
+Injuries,147,20,16,80,"6 shift work/cognition (injury as motivation only); 8 irritant asthma; 14 primary-care training; 16 ISO biomechanical standards"
+Long working hours,17,17,14,82,"12 irregular (not long) hours; 13 dementia outcome; 14 overtime as covariate"
+Ergonomic factors,42,20,17,85,"10 sciatica prognosis; 14 psychological predictors; (11 counted relevant: occupational burden estimate)"
+"Particulate matter, gases and fumes",63,20,14,70,"2 ambient PM2.5 in children; 5,8,9 silicosis (not COPD); 16,19 asthma"
+Noise,32,20,18,90,"5 noise and sympathetic function; 20 pregnancy outcomes"
+Carcinogens (13 agents),139,20,17,85,"3 solvents with asbestos as covariate; 11 welding with asbestos as covariate; 16 silicosis case"
+Asthmagens,73,20,19,95,"10 household cleaning agents"

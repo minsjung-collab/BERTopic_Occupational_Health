@@ -1,0 +1,555 @@
+{
+ "corrected": false,
+ "S2": {
+  "Occupational Diseases, Cancer, and Hazardous Exposures": 741,
+  "Psychosocial and Mental Health": 582,
+  "Musculoskeletal, Physical, and Sensory Health": 425,
+  "Work Organization, Employment, and Safety": 339,
+  "Infectious Diseases and Pandemic Health": 232,
+  "Occupational Health Practice, Prevention, and Methods": 157,
+  "Worker Populations and Reproductive Health": 75
+ },
+ "S3": {
+  "Pre-COVID (2016-2019)": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 351,
+   "Psychosocial and Mental Health": 253,
+   "Musculoskeletal, Physical, and Sensory Health": 197,
+   "Work Organization, Employment, and Safety": 140,
+   "Infectious Diseases and Pandemic Health": 17,
+   "Occupational Health Practice, Prevention, and Methods": 75,
+   "Worker Populations and Reproductive Health": 30
+  },
+  "COVID-19 (2020-2022)": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 210,
+   "Psychosocial and Mental Health": 183,
+   "Musculoskeletal, Physical, and Sensory Health": 124,
+   "Work Organization, Employment, and Safety": 112,
+   "Infectious Diseases and Pandemic Health": 120,
+   "Occupational Health Practice, Prevention, and Methods": 39,
+   "Worker Populations and Reproductive Health": 22
+  },
+  "Post-COVID (2023-2025)": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 180,
+   "Psychosocial and Mental Health": 146,
+   "Musculoskeletal, Physical, and Sensory Health": 104,
+   "Work Organization, Employment, and Safety": 87,
+   "Infectious Diseases and Pandemic Health": 95,
+   "Occupational Health Practice, Prevention, and Methods": 43,
+   "Worker Populations and Reproductive Health": 23
+  }
+ },
+ "S5": {
+  "JOH": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 105,
+   "Psychosocial and Mental Health": 155,
+   "Musculoskeletal, Physical, and Sensory Health": 121,
+   "Work Organization, Employment, and Safety": 35,
+   "Infectious Diseases and Pandemic Health": 60,
+   "Occupational Health Practice, Prevention, and Methods": 63,
+   "Worker Populations and Reproductive Health": 11
+  },
+  "OEM": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 406,
+   "Psychosocial and Mental Health": 123,
+   "Musculoskeletal, Physical, and Sensory Health": 118,
+   "Work Organization, Employment, and Safety": 121,
+   "Infectious Diseases and Pandemic Health": 69,
+   "Occupational Health Practice, Prevention, and Methods": 13,
+   "Worker Populations and Reproductive Health": 44
+  },
+  "OM": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 151,
+   "Psychosocial and Mental Health": 200,
+   "Musculoskeletal, Physical, and Sensory Health": 102,
+   "Work Organization, Employment, and Safety": 41,
+   "Infectious Diseases and Pandemic Health": 80,
+   "Occupational Health Practice, Prevention, and Methods": 64,
+   "Worker Populations and Reproductive Health": 6
+  },
+  "SJWEH": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 79,
+   "Psychosocial and Mental Health": 104,
+   "Musculoskeletal, Physical, and Sensory Health": 84,
+   "Work Organization, Employment, and Safety": 142,
+   "Infectious Diseases and Pandemic Health": 23,
+   "Occupational Health Practice, Prevention, and Methods": 17,
+   "Worker Populations and Reproductive Health": 14
+  }
+ },
+ "period": {
+  "chi2": 132.33363578421438,
+  "df": 12,
+  "p": 2.0974899924488079e-22,
+  "v": 0.1610515448994729,
+  "v_bc": 0.15363323608254986,
+  "ci": [
+   0.14819588566540956,
+   0.18642052158864242
+  ]
+ },
+ "journal": {
+  "chi2": 474.0329459943208,
+  "df": 18,
+  "p": 2.96898186379486e-89,
+  "v": 0.2488790880521336,
+  "v_bc": 0.24424996464432566,
+  "ci": [
+   0.2305374105789796,
+   0.27477367934689856
+  ]
+ },
+ "S4": [
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Occupational Diseases, Cancer, and Hazardous Exposures",
+   "a": 351,
+   "na": 1063,
+   "b": 210,
+   "nb": 810,
+   "z": -3.320553082064794,
+   "p": 0.0008983927294328176,
+   "p_fdr": 0.006288749106029723
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Psychosocial and Mental Health",
+   "a": 253,
+   "na": 1063,
+   "b": 183,
+   "nb": 810,
+   "z": -0.6128627345742594,
+   "p": 0.5399671055324307,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Musculoskeletal, Physical, and Sensory Health",
+   "a": 197,
+   "na": 1063,
+   "b": 124,
+   "nb": 810,
+   "z": -1.8342120563358495,
+   "p": 0.06662252246849087,
+   "p_fdr": 0.23317882863971806
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Work Organization, Employment, and Safety",
+   "a": 140,
+   "na": 1063,
+   "b": 112,
+   "nb": 810,
+   "z": 0.41274076992048453,
+   "p": 0.6797965509721193,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Infectious Diseases and Pandemic Health",
+   "a": 17,
+   "na": 1063,
+   "b": 120,
+   "nb": 810,
+   "z": 10.882500615953395,
+   "p": 0.0,
+   "p_fdr": 0.0
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Occupational Health Practice, Prevention, and Methods",
+   "a": 75,
+   "na": 1063,
+   "b": 39,
+   "nb": 810,
+   "z": -2.009435941271066,
+   "p": 0.044490921815304896,
+   "p_fdr": 0.18686187162428056
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs COVID-19 (2020-2022)",
+   "dom": "Worker Populations and Reproductive Health",
+   "a": 30,
+   "na": 1063,
+   "b": 22,
+   "nb": 810,
+   "z": -0.13853174283331682,
+   "p": 0.8898201843090647,
+   "p_fdr": 0.934311193524518
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Occupational Diseases, Cancer, and Hazardous Exposures",
+   "a": 210,
+   "na": 810,
+   "b": 180,
+   "nb": 678,
+   "z": 0.27204249027313454,
+   "p": 0.7855893484032539,
+   "p_fdr": 0.9165209064704629
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Psychosocial and Mental Health",
+   "a": 183,
+   "na": 810,
+   "b": 146,
+   "nb": 678,
+   "z": -0.49009409483340427,
+   "p": 0.6240673165377117,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Musculoskeletal, Physical, and Sensory Health",
+   "a": 124,
+   "na": 810,
+   "b": 104,
+   "nb": 678,
+   "z": 0.01631551154499189,
+   "p": 0.9869826827653285,
+   "p_fdr": 0.9869826827653285
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Work Organization, Employment, and Safety",
+   "a": 112,
+   "na": 810,
+   "b": 87,
+   "nb": 678,
+   "z": -0.5617728414811163,
+   "p": 0.574270798151886,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Infectious Diseases and Pandemic Health",
+   "a": 120,
+   "na": 810,
+   "b": 95,
+   "nb": 678,
+   "z": -0.43878246834744705,
+   "p": 0.6608191647110739,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Occupational Health Practice, Prevention, and Methods",
+   "a": 39,
+   "na": 810,
+   "b": 43,
+   "nb": 678,
+   "z": 1.2858874108475624,
+   "p": 0.19848235790239732,
+   "p_fdr": 0.521016189493793
+  },
+  {
+   "comp": "COVID-19 (2020-2022) vs Post-COVID (2023-2025)",
+   "dom": "Worker Populations and Reproductive Health",
+   "a": 22,
+   "na": 810,
+   "b": 23,
+   "nb": 678,
+   "z": 0.7586589510186055,
+   "p": 0.4480565983410585,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Occupational Diseases, Cancer, and Hazardous Exposures",
+   "a": 351,
+   "na": 1063,
+   "b": 180,
+   "nb": 678,
+   "z": -2.8596829020759515,
+   "p": 0.004240648001516467,
+   "p_fdr": 0.022263402007961453
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Psychosocial and Mental Health",
+   "a": 253,
+   "na": 1063,
+   "b": 146,
+   "nb": 678,
+   "z": -1.0972382159827738,
+   "p": 0.2725372713556926,
+   "p_fdr": 0.6359202998299494
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Musculoskeletal, Physical, and Sensory Health",
+   "a": 197,
+   "na": 1063,
+   "b": 104,
+   "nb": 678,
+   "z": -1.7180884619338783,
+   "p": 0.08578048104755243,
+   "p_fdr": 0.2573414431426573
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Work Organization, Employment, and Safety",
+   "a": 140,
+   "na": 1063,
+   "b": 87,
+   "nb": 678,
+   "z": -0.2044814143955891,
+   "p": 0.837977314327889,
+   "p_fdr": 0.9261854526781931
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Infectious Diseases and Pandemic Health",
+   "a": 17,
+   "na": 1063,
+   "b": 95,
+   "nb": 678,
+   "z": 10.29372097778771,
+   "p": 0.0,
+   "p_fdr": 0.0
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Occupational Health Practice, Prevention, and Methods",
+   "a": 75,
+   "na": 1063,
+   "b": 43,
+   "nb": 678,
+   "z": -0.5773846670934555,
+   "p": 0.5636796297195539,
+   "p_fdr": 0.839748680612618
+  },
+  {
+   "comp": "Pre-COVID (2016-2019) vs Post-COVID (2023-2025)",
+   "dom": "Worker Populations and Reproductive Health",
+   "a": 30,
+   "na": 1063,
+   "b": 23,
+   "nb": 678,
+   "z": 0.6751960480475391,
+   "p": 0.4995512171227303,
+   "p_fdr": 0.839748680612618
+  }
+ ],
+ "S6": {
+  "Occupational Diseases, Cancer, and Hazardous Exposures": {
+   "total": 741,
+   "covid": 9,
+   "ai": 4
+  },
+  "Psychosocial and Mental Health": {
+   "total": 582,
+   "covid": 20,
+   "ai": 1
+  },
+  "Musculoskeletal, Physical, and Sensory Health": {
+   "total": 425,
+   "covid": 3,
+   "ai": 1
+  },
+  "Work Organization, Employment, and Safety": {
+   "total": 339,
+   "covid": 1,
+   "ai": 2
+  },
+  "Infectious Diseases and Pandemic Health": {
+   "total": 232,
+   "covid": 189,
+   "ai": 1
+  },
+  "Occupational Health Practice, Prevention, and Methods": {
+   "total": 157,
+   "covid": 5,
+   "ai": 2
+  },
+  "Worker Populations and Reproductive Health": {
+   "total": 75,
+   "covid": 2,
+   "ai": 0
+  },
+  "Outliers": {
+   "total": 639,
+   "covid": 13,
+   "ai": 2
+  }
+ },
+ "out_period": {
+  "chi2": 132.54147604892563,
+  "df": 14,
+  "p": 2.138482935417882e-21,
+  "v": 0.14413370884868457,
+  "v_bc": 0.13634933113116934,
+  "ci": [
+   0.1342780965855501,
+   0.1681421952643212
+  ]
+ },
+ "out_journal": {
+  "chi2": 484.47490086723826,
+  "df": 21,
+  "p": 2.5755329420208815e-89,
+  "v": 0.22499852568128104,
+  "v_bc": 0.22017014570318638,
+  "ci": [
+   0.2091256757765306,
+   0.24931977762609508
+  ]
+ },
+ "ex_period": {
+  "chi2": 8.266432483830949,
+  "df": 10,
+  "p": 0.6028298204731948,
+  "v": 0.042217614444055286,
+  "v_bc": 0.0,
+  "ci": [
+   0.03832401051533789,
+   0.08649942053441965
+  ]
+ },
+ "ex_journal": {
+  "chi2": 447.8339904067495,
+  "df": 15,
+  "p": 5.8918550216038625e-86,
+  "v": 0.2537158066929785,
+  "v_bc": 0.24959026907196166,
+  "ci": [
+   0.23351770653157108,
+   0.28092746257686263
+  ]
+ },
+ "ex_n": 2319,
+ "outlier_period": {
+  "chi2": 0.4070913299724203,
+  "df": 2,
+  "p": 0.8158329484716944,
+  "v": 0.011296673713175482,
+  "v_bc": 0.0
+ },
+ "outlier_journal": {
+  "chi2": 10.946104755256448,
+  "df": 3,
+  "p": 0.012020906019161212,
+  "v": 0.05857798904896642,
+  "v_bc": 0.04991420925536412
+ },
+ "outlier_pct_period": {
+  "Pre-COVID (2016-2019)": 20.374531835205993,
+  "COVID-19 (2020-2022)": 20.19704433497537,
+  "Post-COVID (2023-2025)": 19.28571428571429
+ },
+ "outlier_pct_journal": {
+  "JOH": 22.535211267605636,
+  "OEM": 16.991643454038996,
+  "OM": 20.19826517967782,
+  "SJWEH": 22.31543624161074
+ },
+ "odc_ex": {
+  "Pre-COVID (2016-2019)": 33.55640535372849,
+  "COVID-19 (2020-2022)": 30.434782608695656,
+  "Post-COVID (2023-2025)": 30.874785591766724
+ },
+ "odc_ex_p": 0.1735263904461608,
+ "annual": {
+  "2016": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 33.910034602076124,
+   "Psychosocial and Mental Health": 23.875432525951556,
+   "Musculoskeletal, Physical, and Sensory Health": 20.415224913494807,
+   "Work Organization, Employment, and Safety": 12.802768166089965,
+   "Infectious Diseases and Pandemic Health": 1.7301038062283738,
+   "Occupational Health Practice, Prevention, and Methods": 5.88235294117647,
+   "Worker Populations and Reproductive Health": 1.384083044982699
+  },
+  "2017": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 30.855018587360593,
+   "Psychosocial and Mental Health": 22.676579925650557,
+   "Musculoskeletal, Physical, and Sensory Health": 20.817843866171003,
+   "Work Organization, Employment, and Safety": 14.12639405204461,
+   "Infectious Diseases and Pandemic Health": 1.486988847583643,
+   "Occupational Health Practice, Prevention, and Methods": 6.691449814126393,
+   "Worker Populations and Reproductive Health": 3.3457249070631967
+  },
+  "2018": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 31.746031746031743,
+   "Psychosocial and Mental Health": 25.0,
+   "Musculoskeletal, Physical, and Sensory Health": 16.666666666666664,
+   "Work Organization, Employment, and Safety": 13.88888888888889,
+   "Infectious Diseases and Pandemic Health": 1.1904761904761905,
+   "Occupational Health Practice, Prevention, and Methods": 8.333333333333332,
+   "Worker Populations and Reproductive Health": 3.1746031746031744
+  },
+  "2019": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 35.573122529644266,
+   "Psychosocial and Mental Health": 23.715415019762844,
+   "Musculoskeletal, Physical, and Sensory Health": 15.810276679841898,
+   "Work Organization, Employment, and Safety": 11.857707509881422,
+   "Infectious Diseases and Pandemic Health": 1.9762845849802373,
+   "Occupational Health Practice, Prevention, and Methods": 7.5098814229249005,
+   "Worker Populations and Reproductive Health": 3.557312252964427
+  },
+  "2020": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 27.697841726618705,
+   "Psychosocial and Mental Health": 22.302158273381295,
+   "Musculoskeletal, Physical, and Sensory Health": 15.467625899280577,
+   "Work Organization, Employment, and Safety": 15.827338129496402,
+   "Infectious Diseases and Pandemic Health": 8.273381294964029,
+   "Occupational Health Practice, Prevention, and Methods": 7.553956834532374,
+   "Worker Populations and Reproductive Health": 2.877697841726619
+  },
+  "2021": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 23.104693140794225,
+   "Psychosocial and Mental Health": 24.187725631768952,
+   "Musculoskeletal, Physical, and Sensory Health": 16.60649819494585,
+   "Work Organization, Employment, and Safety": 12.274368231046932,
+   "Infectious Diseases and Pandemic Health": 17.328519855595665,
+   "Occupational Health Practice, Prevention, and Methods": 3.2490974729241873,
+   "Worker Populations and Reproductive Health": 3.2490974729241873
+  },
+  "2022": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 27.058823529411764,
+   "Psychosocial and Mental Health": 21.176470588235293,
+   "Musculoskeletal, Physical, and Sensory Health": 13.725490196078432,
+   "Work Organization, Employment, and Safety": 13.333333333333334,
+   "Infectious Diseases and Pandemic Health": 19.215686274509807,
+   "Occupational Health Practice, Prevention, and Methods": 3.5294117647058822,
+   "Worker Populations and Reproductive Health": 1.9607843137254901
+  },
+  "2023": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 30.414746543778804,
+   "Psychosocial and Mental Health": 19.35483870967742,
+   "Musculoskeletal, Physical, and Sensory Health": 14.285714285714285,
+   "Work Organization, Employment, and Safety": 16.129032258064516,
+   "Infectious Diseases and Pandemic Health": 12.903225806451612,
+   "Occupational Health Practice, Prevention, and Methods": 2.7649769585253456,
+   "Worker Populations and Reproductive Health": 4.147465437788019
+  },
+  "2024": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 22.672064777327936,
+   "Psychosocial and Mental Health": 21.86234817813765,
+   "Musculoskeletal, Physical, and Sensory Health": 14.5748987854251,
+   "Work Organization, Employment, and Safety": 12.955465587044534,
+   "Infectious Diseases and Pandemic Health": 18.218623481781375,
+   "Occupational Health Practice, Prevention, and Methods": 7.6923076923076925,
+   "Worker Populations and Reproductive Health": 2.0242914979757085
+  },
+  "2025": {
+   "Occupational Diseases, Cancer, and Hazardous Exposures": 27.102803738317753,
+   "Psychosocial and Mental Health": 23.364485981308412,
+   "Musculoskeletal, Physical, and Sensory Health": 17.289719626168225,
+   "Work Organization, Employment, and Safety": 9.345794392523365,
+   "Infectious Diseases and Pandemic Health": 10.2803738317757,
+   "Occupational Health Practice, Prevention, and Methods": 8.411214953271028,
+   "Worker Populations and Reproductive Health": 4.205607476635514
+  }
+ },
+ "odc_largest_years": [
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2022,
+  2023,
+  2024,
+  2025
+ ]
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "BERTopic analysis of occupational health research, 2016–2025: data, model, and code"
+authors:
+  - family-names: Jung
+    given-names: Minsoo
+    affiliation: "Department of Health Sciences, Dongduk Women's University"
+    orcid: "https://orcid.org/0000-0003-3317-6507"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+repository-code: "https://github.com/minsjung-collab/BERTopic_Occupational_Health"
+keywords: [BERTopic, occupational health, burden of disease, topic modeling, bibliometrics]

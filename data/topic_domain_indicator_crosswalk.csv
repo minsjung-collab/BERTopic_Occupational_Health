@@ -1,0 +1,54 @@
+Topic,TopicName,N,Domain,Domain_original,WHOILO_primary,WHOILO_broad_added,SDG_ILO_priority
+0,COVID-19 and Workplace Health,232,Infectious Diseases and Pandemic Health,Infectious Diseases and Pandemic Health,,,Biological hazards and pandemics (ILO Strategy)
+1,Occupational Musculoskeletal Disorders and Pain,223,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",Ergonomic factors,,
+2,Occupational Respiratory Disease and Inhalational Exposures,210,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",Respiratory exposures (PMGF; asthmagens),,
+3,"Occupational Injuries, Safety, and Precarious Employment",110,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",Occupational injuries,,Occupational injury and safety (SDG 8.8.1)
+4,Occupational Cancer and Chemical Exposures,102,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,Carcinogens (13 agents),
+5,"Sleep, Shift Work, and Fatigue",94,Psychosocial and Mental Health,Psychosocial and Mental Health,,,
+6,"Retirement, Disability, and Labor-Market Exit",81,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",,,
+7,"Occupational Health Practice, Physicians, and Training",79,"Occupational Health Practice, Prevention, and Methods","Occupational Health Practice, Prevention, and Methods",,,"OSH services, surveillance, and exposure monitoring (ILO Strategy pillar 1)"
+8,"Asbestos Exposure, Mesothelioma, and Lung Cancer",68,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",Carcinogens (13 agents),,
+9,Workplace Mental Health Interventions,61,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+10,Sickness Absence and Work Disability,61,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",,,
+11,Occupational Physical Activity and Sedentary Behavior,59,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",,,
+12,Occupational Burnout and Emotional Exhaustion,51,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+13,"Military Service, Veterans, and Occupational Mental Health",49,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+14,"Work Engagement, Job Demands, and Psychological Distress",46,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+15,"Pregnancy, Maternal Occupational Exposures, and Birth Outcomes",44,Worker Populations and Reproductive Health,Worker Populations and Reproductive Health,,,
+16,"Workplace Violence, Harassment, and Gender-Based Violence",42,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+17,Hand-Arm Vibration Syndrome,41,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",,,
+18,Occupational Radiation Exposure and Cancer,41,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+19,Nanoparticle and Experimental Pulmonary Toxicity,38,"Occupational Diseases, Cancer, and Hazardous Exposures",Psychosocial and Mental Health,,Respiratory exposures (PMGF; asthmagens),
+20,Respirable Crystalline Silica Exposure,37,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",Carcinogens (13 agents),,
+21,Workplace Psychosocial Scales and Measurement Validation,36,"Occupational Health Practice, Prevention, and Methods","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+22,Carpal Tunnel Syndrome and Biomechanical Exposures,34,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",,Ergonomic factors,
+23,Suicide and Suicidal Behavior in Working Populations,33,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+24,Return to Work and Vocational Rehabilitation,32,"Work Organization, Employment, and Safety","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+25,Occupational Exposure Monitoring and Industrial Hygiene,32,"Occupational Health Practice, Prevention, and Methods","Occupational Health Practice, Prevention, and Methods",,,"OSH services, surveillance, and exposure monitoring (ILO Strategy pillar 1)"
+26,"Occupational Chemical Exposures, Pregnancy, and Fetal Growth",31,Worker Populations and Reproductive Health,Worker Populations and Reproductive Health,,,
+27,Coal Mine Dust Lung Disease and Pneumoconiosis,29,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",Respiratory exposures (PMGF; asthmagens),,
+28,Night Shift Work and Cancer Risk,29,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",,,
+29,Occupational Noise and Hearing Loss,28,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",Noise,,
+30,"Job Insecurity, Work-Family Conflict, and Mental Health",28,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+31,Workplace Physical-Activity Interventions,28,"Occupational Health Practice, Prevention, and Methods","Occupational Health Practice, Prevention, and Methods",,,
+32,Occupational Lead Exposure and Health Outcomes,27,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+33,Occupational Skin Disease and Contact Dermatitis,27,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+34,Firefighter Occupational Cancer and Mortality,26,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+35,"Police, First Responders, PTSD, and Occupational Stress",25,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+36,Ambient Air Pollution and Respiratory/Cardiopulmonary Health,25,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+37,"Heat Exposure, Temperature, and Health",25,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,Climate change and heat (ILO Strategy)
+38,Work Stress and Metabolic Disease/Diabetes,23,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+39,Fitness and Physical Performance in First Responders,23,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",,,
+40,Night/Shift Work and Cardiovascular/Cerebrovascular Health,23,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",,Long working hours,
+41,Occupational Pesticide Exposure and Health,21,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+42,Heat Stress and Kidney Injury in Agricultural Workers,21,"Occupational Diseases, Cancer, and Hazardous Exposures",Psychosocial and Mental Health,,,Climate change and heat (ILO Strategy)
+43,"Young Workers, Employment, and Mental Health",19,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+44,"Cancer Survivorship, Fatigue, and Work Ability",18,Psychosocial and Mental Health,Psychosocial and Mental Health,,,
+45,Firefighter PTSD and Traumatic Stress,18,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
+46,Extremely Low-Frequency Magnetic Fields and Cancer,18,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,,
+47,Seafarer Occupational Health and Mortality,18,"Occupational Health Practice, Prevention, and Methods","Occupational Health Practice, Prevention, and Methods",,,
+48,"Occupational Lung Cancer, Silica, and Job-Exposure Assessment",18,"Occupational Diseases, Cancer, and Hazardous Exposures","Work Organization, Employment, and Safety",Carcinogens (13 agents),,
+49,Noise Exposure and Cardiovascular Health,17,"Musculoskeletal, Physical, and Sensory Health","Musculoskeletal, Physical, and Sensory Health",,Noise,
+50,"Welding Fumes, Metal Exposure, and Cancer",17,"Occupational Diseases, Cancer, and Hazardous Exposures","Occupational Diseases, Cancer, and Hazardous Exposures",,Carcinogens (13 agents),
+51,"Occupational Coding, Job Histories, and Job-Exposure Matrices",17,"Work Organization, Employment, and Safety","Work Organization, Employment, and Safety",,,"OSH services, surveillance, and exposure monitoring (ILO Strategy pillar 1)"
+52,Workplace Bullying and Suicidal/Mental Health Outcomes,16,Psychosocial and Mental Health,Psychosocial and Mental Health,,,"Psychosocial risks, violence and harassment, and mental health at work (ILO Strategy)"
