@@ -24,7 +24,7 @@ for yi, v in zip(y, men): a.text(v + 0.6, yi - h/2 - 0.02, f"{v:.1f}", va="cente
 a.set_yticks(y); a.set_yticklabels([lab[g] for g in order])
 a.set_xlabel("Percentage"); a.set_xlim(0, 35)
 a.legend(loc="upper center", bbox_to_anchor=(0.5, -0.17), ncol=1, frameon=False, fontsize=8)
-a.set_title("a  Burden share vs research share", loc="left", fontsize=10, fontweight="bold", color=INK)
+a.set_title("A  Burden share vs research share", loc="left", fontsize=10, fontweight="bold", color=INK)
 for s in ["top", "right"]: a.spines[s].set_visible(False)
 a.grid(axis="x", color="#e6e6e6", lw=0.6); a.set_axisbelow(True)
 
@@ -41,7 +41,7 @@ b.set_xticks([0.1, 0.25, 0.5, 1, 2, 4, 8]); b.set_xticklabels(["0.1", "0.25", "0
 b.set_xlabel("Attention-to-burden ratio (log scale)")
 b.text(1.0, -0.95, "under-represented ←   → over-represented", fontsize=7.5, color=MUTED, ha="center")
 b.legend(loc="upper center", bbox_to_anchor=(0.5, -0.17), ncol=1, frameon=False, fontsize=8)
-b.set_title("b  Ratio of research share to DALY share", loc="left", fontsize=10, fontweight="bold", color=INK)
+b.set_title("B  Ratio of research share to DALY share", loc="left", fontsize=10, fontweight="bold", color=INK)
 for s in ["top", "right"]: b.spines[s].set_visible(False)
 b.grid(axis="x", color="#e6e6e6", lw=0.6, which="major"); b.set_axisbelow(True)
 b.set_ylim(-1.3, len(order) - 0.4)

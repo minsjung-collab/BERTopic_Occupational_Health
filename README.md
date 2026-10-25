@@ -12,11 +12,11 @@ The study applies BERTopic to 3190 PubMed-indexed publications from *Occupationa
 | `data/topic_information.csv`, `data/topic_top_words.csv` | Topic sizes and top terms from the baseline model |
 | `data/topic_domain_indicator_crosswalk.csv` | Topic → domain → WHO/ILO risk factor group (primary and broad mapping) → SDG 8.8 / ILO Strategy priority |
 | `data/whoilo_2016_burden.csv` | Deaths and DALYs attributable to the WHO/ILO risk factor groups, 2016 (Pega et al. 2022, *Scand J Work Environ Health* 48:158–168) |
-| `data/keyword_flags.csv` | Article-level keyword matches used for validation (Table S10) |
+| `data/keyword_flags.csv` | Article-level keyword matches used for validation (Supplementary Table S3) |
 | `model/BERTopic_Model/` | Saved baseline BERTopic model (safetensors; embedding model `sentence-transformers/all-MiniLM-L6-v2`) |
-| `scripts/domain_tables.py` | Domain-level results (Tables S2–S7) |
-| `scripts/rq4_topics.py` | Benchmark correspondence, attention-to-burden ratios, and 10-year trends (Tables 1–2, S8–S9) |
-| `scripts/figs_domains.py`, `scripts/fig5_topics.py`, `scripts/figS1_keyword.py` | Figures 2–5 and Fig. S1 |
+| `scripts/domain_tables.py` | Domain-level results (Supplementary Tables S4–S9) |
+| `scripts/rq4_topics.py` | Benchmark correspondence, attention-to-burden ratios, and 10-year trends (Tables 1–2; Supplementary Tables S2, S10) |
+| `scripts/figs_domains.py`, `scripts/fig3_benchmark.py`, `scripts/figS3_keyword.py` | Figures 2–3 and Supplementary Figures S1–S3 |
 | `scripts/keyword_benchmarks.py` | Keyword dictionaries (requires the abstract text; see below) |
 | `scripts/original/temporal_analysis_original.py` | Original analysis script that produced the baseline outputs (Windows paths) |
 | `outputs/` | Result files (JSON) and figures produced by the scripts |
