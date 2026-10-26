@@ -1,8 +1,8 @@
 # BERTopic analysis of occupational health research, 2016–2025
 
-Data, model, and code for the manuscript **"Research attention and the work-related burden of disease: a topic-modeling analysis of four occupational health journals, 2016–2025"** (Minsoo Jung, Dongduk Women's University).
+Data, model, and code for the manuscript **"Weighing occupational health research against the WHO/ILO work-related burden of disease: a topic-modeling analysis of four major occupational health journals, 2016–2025"** (Minsoo Jung, Dongduk Women's University).
 
-The study applies BERTopic to 3190 PubMed-indexed publications from *Occupational and Environmental Medicine*, *Scandinavian Journal of Work, Environment & Health*, *Journal of Occupational Health*, and *Occupational Medicine* (2016–2025). It groups the 53 substantive topics into seven thematic domains and maps them to international occupational health benchmarks: the WHO/ILO Joint Estimates of the work-related burden of disease (2016), SDG target 8.8, and the ILO Global Strategy on Occupational Safety and Health 2024–2030.
+The study applies BERTopic to 3190 PubMed-indexed publications from *Occupational and Environmental Medicine*, *Scandinavian Journal of Work, Environment & Health*, *Journal of Occupational Health*, and *Occupational Medicine* (2016–2025). It groups the 53 substantive topics into seven thematic domains and maps them to international occupational health reference frameworks: the WHO/ILO Joint Estimates of the work-related burden of disease (2016), SDG target 8.8, and the ILO Global Strategy on Occupational Safety and Health 2024–2030.
 
 ## Contents
 

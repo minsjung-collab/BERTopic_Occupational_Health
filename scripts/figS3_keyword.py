@@ -18,7 +18,7 @@ fig, (a, b) = plt.subplots(1, 2, figsize=(10.2, 4.9), gridspec_kw={"width_ratios
 y = np.arange(len(order)); h = 0.36
 dal = [rf[g]["daly_pct"] for g in order]; men = [rf[g]["mention_pct"] for g in order]
 a.barh(y + h/2 + 0.02, dal, h, color=BUR, label="Share of WHO/ILO DALYs, 2016")
-a.barh(y - h/2 - 0.02, men, h, color=RES, label="Share of benchmark-matched publications")
+a.barh(y - h/2 - 0.02, men, h, color=RES, label="Share of keyword-matched publications")
 for yi, v in zip(y, dal): a.text(v + 0.6, yi + h/2 + 0.02, f"{v:.1f}", va="center", fontsize=8, color=INK)
 for yi, v in zip(y, men): a.text(v + 0.6, yi - h/2 - 0.02, f"{v:.1f}", va="center", fontsize=8, color=INK)
 a.set_yticks(y); a.set_yticklabels([lab[g] for g in order])
