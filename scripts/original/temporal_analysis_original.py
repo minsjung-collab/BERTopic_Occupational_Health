@@ -29,7 +29,7 @@ from bertopic import BERTopic
 # 1. PATHS
 # ============================================================
 
-BASE_DIR = r"C:\Users\DDWU\Desktop\Occupational Health BERTopic"
+BASE_DIR = r"PATH\TO\Occupational Health BERTopic"  # set to the local project folder
 
 CORPUS_FILE = os.path.join(
     BASE_DIR,
